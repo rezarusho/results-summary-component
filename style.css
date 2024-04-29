@@ -42,7 +42,7 @@ body {
 }
 
 .card {
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  box-shadow: #0000003d 0px 3px 8px;
   border-radius: 2rem;
   width: 650px;
   background-color: var(--clr-neutral-white);
